@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar.xml",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\drawable\\progressbar.xml"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\drawable\\conner_right1.xml",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\drawable\\conner_right1.xml"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bar_states.xml",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\drawable\\progress_bar_states.xml"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\drawable\\conner_right.xml",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\drawable\\conner_right.xml"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\drawable\\conner_left1.xml",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\drawable\\conner_left1.xml"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_multi1.xml",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\drawable\\tab_multi1.xml"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\drawable\\conner_left.xml",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\drawable\\conner_left.xml"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_nobgd.xml",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\drawable\\bt_nobgd.xml"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_single1.xml",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\drawable\\tab_single1.xml"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_bg.xml",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\drawable\\corners_bg.xml"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_fourbg.xml",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\drawable\\corners_fourbg.xml"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_selector.xml",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\drawable\\list_item_selector.xml"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_topbar_level_selector.xml",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\drawable\\menu_topbar_level_selector.xml"
+    }
+]

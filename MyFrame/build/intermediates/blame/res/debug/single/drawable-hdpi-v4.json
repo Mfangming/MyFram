@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\richpush_btn_selector.xml",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\drawable-hdpi\\richpush_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back_title.png",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\drawable-hdpi\\back_title.png"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\door_right.png",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\drawable-hdpi\\door_right.png"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title.png",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\drawable-hdpi\\title.png"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\doc.png",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\drawable-hdpi\\doc.png"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\testanima_rool.png",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\drawable-hdpi\\testanima_rool.png"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_richpush_actionbar_divider.png",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\drawable-hdpi\\ic_richpush_actionbar_divider.png"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_title_ioc.png",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\drawable-hdpi\\dialog_title_ioc.png"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\folder.png",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\drawable-hdpi\\folder.png"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_transparent.png",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\drawable-hdpi\\bg_transparent.png"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\testanima_bg.png",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\drawable-hdpi\\testanima_bg.png"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\door_left.png",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\drawable-hdpi\\door_left.png"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_addpic_unfocused.png",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\drawable-hdpi\\icon_addpic_unfocused.png"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\testanima_ajb.png",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\drawable-hdpi\\testanima_ajb.png"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_richpush_actionbar_back.png",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\drawable-hdpi\\ic_richpush_actionbar_back.png"
+    }
+]

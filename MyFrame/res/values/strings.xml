@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyFram</string>
+    <string name="hello_world">Hello world!</string>
+	    <string name="cancel_back">返回</string>
+    <string name="file_cannotopen">文件无法打开</string>
+</resources>
