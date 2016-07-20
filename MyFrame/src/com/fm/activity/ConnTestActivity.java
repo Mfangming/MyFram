@@ -19,7 +19,6 @@ public class ConnTestActivity extends Activity {
 	private String TAG = "ConnTestActivity";
 	private ConnTestActivity _this;
 	private Button btn_conn;
-	private ConnService mysService;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
