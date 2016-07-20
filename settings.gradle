@@ -1,1 +1,1 @@
-include ':app', ':MyFrame', ':DbProject'
+include ':app', ':MyFrame', ':DbProject', ':news'

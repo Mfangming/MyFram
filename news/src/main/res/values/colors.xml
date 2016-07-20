@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="grey_bg">#FFF6F6F6</color>
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="lightFBlue">#FF5F7C9B</color>
+    <color name="lightFRed">#FF9E4648</color>
+    <color name="logininput">#FF447CB9</color>
+    <color name="top_bule_bj">#045895</color>
+    <color name="holo_blue">#FF33E5B5</color>
+    <!-- 绿色 -->
+    <color name="homedblue">#FF0099DC</color>
+    <color name="homeblue">#FF0170c1</color>
+    <color name="homegreen">#FF82A63F</color>
+    <color name="homeorange">#FFFF9900</color>
+    <color name="title_color">#D42630</color>
+    <color name="otherbg">#FF414141</color>
+    <color name="othertxt">#FFBEBEBE</color>
+    <color name="me_activity_lineColor">#C1BDB3</color>
+    <color name="table_text">#77CA24</color>
+    <color name="home_line">#2F8057</color>
+    <color name="specialgreen">#54996A</color>
+
+    <!-- 弹出的背景蓝色 -->
+    <color name="top_bule">#0466AD</color>
+    <!-- 附件蓝 -->
+    <color name="attachment_blue">#0281DB</color>
+    <color name="split_blue">#FF006C7F</color>
+    <!-- 黄色 -->
+    <color name="yellow">#ddcc9966</color>
+    <color name="white">#FFFFFFFE</color>
+    <!-- 白色 -->
+    <color name="black">#FF000000</color>
+    <color name="btnother">#FF009ADB</color>
+    <color name="grey2">#FFE7E7E7</color>
+    <!-- 黑色 -->
+    <color name="red">#FFFF0000</color>
+    <!-- 标题黑 -->
+    <color name="titleBlack">#3B3B3B</color>
+    <color name="gray_operator_bar_bg">#ffcccccc</color>
+    <!-- 红色 -->
+    <color name="green">#FF41A54D</color>
+    <!-- 未读玫红 -->
+    <color name="unReadRed">#F06D98</color>
+    <!-- 绿色 -->
+    <color name="blue">#FF0000FF</color>
+    <color name="blue_item">#FF017E94</color>
+    <!-- 蓝色 -->
+    <color name="title_operater">#4FB7B6</color>
+    <color name="grey">#FF9f9e9e</color>
+    <!-- 灰色 -->
+    <color name="split_grey">#E1E1E1</color>
+    <!-- 灰色 -->
+    <color name="lightGrey">#FFe7e7e7</color>
+    <!-- 列表项选中灰色 -->
+    <color name="item_selected_grey">#F6F6F4</color>
+    <!-- 已读灰色 -->
+    <color name="readGrey">#898788</color>
+    <!-- 内容灰色 -->
+    <color name="contentGrey">#898989</color>
+    <!-- 分割灰色 -->
+    <color name="dividerGrey">#d3d3d3</color>
+    <!-- 浅灰色 -->
+    <color name="deepGrey">#FF636262</color>
+    <!-- 深灰色 -->
+    <color name="translate">#00000000</color>
+    <color name="layout_grey">#FFEEEEEE</color>
+    <!-- 透明 -->
+    <color name="comm_list_item_divider_color">#FFBEBEBE</color>
+    <color name="linen">#FFFAF0E6</color>
+    <color name="lightBlue">#FFf3faff</color>
+    <color name="line_color">#FF9D9D9D</color>
+    <color name="lightblue">#FFADD8E6</color>
+    <color name="odd">#FFADD8E6</color>
+    <!-- 奇数行颜色 -->
+    <color name="even">#FFADD8E6</color>
+    <!-- 偶数行颜色 -->
+    <color name="week_today">#0078ff</color>
+    <color name="date">#186bd1</color>
+    <color name="recordremind_background">#FFFFFF</color>
+    <color name="date_background">#dddce1</color>
+    <color name="green_black">#549008</color>
+    <color name="blue_black">#3bac</color>
+    <color name="border_color">#000000</color>
+    <color name="weekname_color">#000000</color>
+    <color name="day_color">#000000</color>
+    <color name="inner_grid_color">#aaadb2</color>
+    <color name="prev_next_month_day_color">#AAAAAA</color>
+    <color name="text_color">#FFFF00</color>
+    <color name="recordremindtext_color">#000000</color>
+    <color name="current_day_color">#565656</color>
+    <color name="today_background_color">#FF0000</color>
+    <color name="today_color">#565656</color>
+    <color name="sunday_saturday_color">#fa4451</color>
+    <color name="sunday_saturday_prev_next_month_day_color">#AAAAAA</color>
+    <color name="selectdeparment">#599cd5</color>
+
+    <!-- 主页面父菜单的颜色 -->
+    <color name="grouplistitem">#ADB2AD</color>
+    <!-- 主页面子菜单的偶数列颜色 -->
+    <color name="child_even_list">#CECFCE</color>
+    <!-- 主页面子菜单的奇数列颜色 -->
+    <color name="child_uneven_list">#CECFCE</color>
+    <!-- 主页面子菜单的分割线的颜色 -->
+    <color name="child_divider_list">#85D88F</color>
+
+    <!-- 照相机 -->
+
+    <color name="recording_time_elapsed_text">#FFFFFFFF</color>
+    <color name="recording_time_remaining_text">#FFFF0033</color>
+    <color name="grey_light">#E5E5E5</color>
+    <!-- 蓝 -->
+    <color name="blue_bar">#017E94</color>
+    <color name="blue_split">#006476</color>
+    <color name="blue_title">#018DA6</color>
+    <color name="transparent">#00000000</color>
+    <color name="map_top_back_bg">#EEEEEE</color>
+    <color name="map_select_bg">#EDEDED</color>
+    <color name="operator_group_title_tv">#1C9441</color>
+    <color name="lefttextcolor">#1C9441</color>
+    <!-- 美团主题蓝 -->
+    <color name="mt_blue">#23C5A8</color>
+    <!-- 美团tabhost背景 -->
+    <color name="mt_host_bg">#F5F5F5</color>
+    <!-- title -->
+    <color name="title_bg">#9BBBEA</color>
+</resources>

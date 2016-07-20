@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">news</string>
+    <string name="cancel_back">返回</string>
+    <string name="file_cannotopen">文件无法打开</string>
+    <string name="open_main_page">打开主页</string>
+    <string name="share_app">推荐应用</string>
+</resources>

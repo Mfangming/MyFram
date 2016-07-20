@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/titleview"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@mipmap/title" >
+
+        <Button
+            android:id="@+id/btn_home"
+            style="@style/backbtn"
+            android:layout_centerVertical="true"
+            android:background="@drawable/menu_topbar_level_selector"
+            android:includeFontPadding="false" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:text="选择文件"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/file_path"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/prev_next_month_day_color"
+        android:padding="5dp"
+        android:textColor="@color/white"
+        android:textSize="15sp" />
+
+    <ListView
+        android:id="@android:id/list"
+        style="@style/listview5_style"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:cacheColorHint="@color/transparent" />
+
+</LinearLayout>
