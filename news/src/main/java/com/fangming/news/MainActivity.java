@@ -4,12 +4,8 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentActivity;
 import android.support.v4.view.ViewPager;
 import android.support.v4.widget.DrawerLayout;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Gravity;
-import android.view.View;
-import android.view.Window;
-import android.widget.Button;
 import android.widget.Toast;
 
 import com.fangming.adapter.NewsFragmentPagerAdapter;
@@ -17,8 +13,6 @@ import com.fangming.fragments.NewsFragment;
 import com.fangming.myapp.MyApp;
 import com.fangming.view.HeaderLayout;
 
-import org.json.JSONException;
-import org.json.JSONObject;
 
 import java.util.ArrayList;
 
@@ -69,7 +63,7 @@ public class MainActivity extends FragmentActivity {
         fragments.add(new NewsFragment());
         mAdapter = new NewsFragmentPagerAdapter(getSupportFragmentManager(), fragments);
         mViewPager.setAdapter(mAdapter);
-        mViewPager.addOnPageChangeListener(pageListener);
+        mViewPager.setOnPageChangeListener(pageListener);
 //        btn_insert.setOnClickListener(new View.OnClickListener() {
 //            @Override
 //            public void onClick(View v) {

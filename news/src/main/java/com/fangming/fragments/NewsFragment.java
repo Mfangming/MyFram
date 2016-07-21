@@ -2,16 +2,13 @@ package com.fangming.fragments;
 
 import android.app.Activity;
 import android.os.Bundle;
-import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
-import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.Toast;
 
-import com.android.volley.toolbox.NetworkImageView;
 import com.fangming.adapter.NewsAdapter;
 import com.fangming.entity.NewsEntity;
 import com.fangming.entity.Respones;
@@ -24,12 +21,11 @@ import java.util.List;
 
 public class NewsFragment extends BaseFragment {
     private final static String TAG = "NewsFragment";
-    Activity activity;
-    ImageView detail_loading;
     private ListView mlistview;
     private NewsAdapter mAdapter;
     private List<NewsEntity> newsEntityList;
     private Button btn_update;
+    private Activity _activity;
     MyApp myApp;
 
     @Override
@@ -40,7 +36,7 @@ public class NewsFragment extends BaseFragment {
 
     @Override
     public void onAttach(Activity activity) {
-        this.activity = activity;
+        _activity=activity;
         super.onAttach(activity);
     }
 
@@ -55,7 +51,7 @@ public class NewsFragment extends BaseFragment {
     private void initView(View v) {
         mlistview = (ListView) v.findViewById(R.id.mlistview);
         newsEntityList = new ArrayList<NewsEntity>();
-        mAdapter = new NewsAdapter(getContext(), newsEntityList,myApp.imageManager);
+        mAdapter = new NewsAdapter(_activity, newsEntityList,myApp.imageManager);
         mlistview.setAdapter(mAdapter);
         btn_update = (Button) v.findViewById(R.id.btn_update);
         btn_update.setOnClickListener(new View.OnClickListener() {
@@ -74,7 +70,7 @@ public class NewsFragment extends BaseFragment {
                                 newsEntityList.addAll(mlist);
                             }
                         }else{
-                            Toast.makeText(getContext(),respon.getMsg(),Toast.LENGTH_SHORT).show();
+                            Toast.makeText(_activity,respon.getMsg(),Toast.LENGTH_SHORT).show();
                         }
                         mAdapter.notifyDataSetChanged();
                     }
