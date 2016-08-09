@@ -16,6 +16,7 @@ ADDED from E:\android-studio\workspace\MyFram\MyFrame\AndroidManifest.xml:2:1-97
 uses-sdk
 ADDED from E:\android-studio\workspace\MyFram\MyFrame\AndroidManifest.xml:7:5-9:41
 MERGED from [MyFram:DbProject:unspecified] E:\android-studio\workspace\MyFram\MyFrame\build\intermediates\exploded-aar\MyFram\DbProject\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [MyFram:MyUtill:unspecified] E:\android-studio\workspace\MyFram\MyFrame\build\intermediates\exploded-aar\MyFram\MyUtill\unspecified\AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
 		ADDED from E:\android-studio\workspace\MyFram\MyFrame\AndroidManifest.xml:9:9-38
 	android:minSdkVersion
@@ -156,7 +157,7 @@ ADDED from E:\android-studio\workspace\MyFram\MyFrame\AndroidManifest.xml:48:5-7
 		ADDED from E:\android-studio\workspace\MyFram\MyFrame\AndroidManifest.xml:48:22-68
 application
 ADDED from E:\android-studio\workspace\MyFram\MyFrame\AndroidManifest.xml:50:5-95:19
-MERGED from [MyFram:DbProject:unspecified] E:\android-studio\workspace\MyFram\MyFrame\build\intermediates\exploded-aar\MyFram\DbProject\unspecified\AndroidManifest.xml:11:5-25:19
+MERGED from [MyFram:DbProject:unspecified] E:\android-studio\workspace\MyFram\MyFrame\build\intermediates\exploded-aar\MyFram\DbProject\unspecified\AndroidManifest.xml:11:5-14:19
 	android:label
 		ADDED from E:\android-studio\workspace\MyFram\MyFrame\AndroidManifest.xml:53:9-41
 	android:icon
@@ -231,9 +232,3 @@ service#com.fm.service.ConnService
 ADDED from E:\android-studio\workspace\MyFram\MyFrame\AndroidManifest.xml:93:9-94:19
 	android:name
 		ADDED from E:\android-studio\workspace\MyFram\MyFrame\AndroidManifest.xml:93:18-59
-activity#com.example.dbproject.MainActivity
-ADDED from [MyFram:DbProject:unspecified] E:\android-studio\workspace\MyFram\MyFrame\build\intermediates\exploded-aar\MyFram\DbProject\unspecified\AndroidManifest.xml:16:9-24:20
-	android:label
-		ADDED from [MyFram:DbProject:unspecified] E:\android-studio\workspace\MyFram\MyFrame\build\intermediates\exploded-aar\MyFram\DbProject\unspecified\AndroidManifest.xml:18:13-45
-	android:name
-		ADDED from [MyFram:DbProject:unspecified] E:\android-studio\workspace\MyFram\MyFrame\build\intermediates\exploded-aar\MyFram\DbProject\unspecified\AndroidManifest.xml:17:13-62

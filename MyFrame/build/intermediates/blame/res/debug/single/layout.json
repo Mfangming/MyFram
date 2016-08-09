@@ -1,23 +1,7 @@
 [
     {
-        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\test_activity_http.xml",
-        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\test_activity_http.xml"
-    },
-    {
-        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\griad_item.xml",
-        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\griad_item.xml"
-    },
-    {
         "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_testopengl.xml",
         "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\activity_testopengl.xml"
-    },
-    {
-        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\item_fileupload.xml",
-        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\item_fileupload.xml"
-    },
-    {
-        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_testcamora.xml",
-        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\activity_testcamora.xml"
     },
     {
         "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fileupload.xml",
@@ -28,16 +12,8 @@
         "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\activity_webview.xml"
     },
     {
-        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\test_dialog_activity.xml",
-        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\test_dialog_activity.xml"
-    },
-    {
         "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test_edittext.xml",
         "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\activity_test_edittext.xml"
-    },
-    {
-        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_serversocket.xml",
-        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\activity_serversocket.xml"
     },
     {
         "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_testkeybord.xml",
@@ -48,28 +24,12 @@
         "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\pop_bottom.xml"
     },
     {
-        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_conntest.xml",
-        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\activity_conntest.xml"
-    },
-    {
         "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\testffmpeg_main.xml",
         "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\testffmpeg_main.xml"
     },
     {
-        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_testffmpeg3.xml",
-        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\activity_testffmpeg3.xml"
-    },
-    {
-        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\file_browser_activity.xml",
-        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\file_browser_activity.xml"
-    },
-    {
         "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gallery.xml",
         "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\activity_gallery.xml"
-    },
-    {
-        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_testbaseactivity.xml",
-        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\activity_testbaseactivity.xml"
     },
     {
         "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\file_item.xml",
@@ -80,16 +40,8 @@
         "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\activity_testvolly.xml"
     },
     {
-        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\activity_main.xml"
-    },
-    {
         "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_testcamora2.xml",
         "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\activity_testcamora2.xml"
-    },
-    {
-        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_progress_webview.xml",
-        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\activity_progress_webview.xml"
     },
     {
         "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test_jsoup.xml",
@@ -104,14 +56,6 @@
         "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\dialog_one.xml"
     },
     {
-        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_webview_layout.xml",
-        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\jpush_webview_layout.xml"
-    },
-    {
-        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\item_projectadapter.xml",
-        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\item_projectadapter.xml"
-    },
-    {
         "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_testanima.xml",
         "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\activity_testanima.xml"
     },
@@ -124,11 +68,67 @@
         "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\pop_fileupload_select.xml"
     },
     {
-        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_testffmpeg.xml",
-        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\activity_testffmpeg.xml"
-    },
-    {
         "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\item_gradview_tua.xml",
         "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\item_gradview_tua.xml"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\test_activity_http.xml",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\test_activity_http.xml"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\griad_item.xml",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\griad_item.xml"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\item_fileupload.xml",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\item_fileupload.xml"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_testcamora.xml",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\activity_testcamora.xml"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\test_dialog_activity.xml",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\test_dialog_activity.xml"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_serversocket.xml",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\activity_serversocket.xml"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_conntest.xml",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\activity_conntest.xml"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_testffmpeg3.xml",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\activity_testffmpeg3.xml"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\file_browser_activity.xml",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\file_browser_activity.xml"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_testbaseactivity.xml",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\activity_testbaseactivity.xml"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_progress_webview.xml",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\activity_progress_webview.xml"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_webview_layout.xml",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\jpush_webview_layout.xml"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\item_projectadapter.xml",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\item_projectadapter.xml"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_testffmpeg.xml",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\activity_testffmpeg.xml"
     }
 ]
