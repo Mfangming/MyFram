@@ -1,1 +1,7 @@
-/build
+/gen/
+/bin/
+/proguard/
+/build/
+/.idea/
+/.gradle/
+*.iml

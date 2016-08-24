@@ -24,4 +24,5 @@ dependencies {
     compile files('libs/volley.jar')
     compile project(':DbProject')
     testCompile 'junit:junit:4.12'
+    compile files('libs/HMSDK.jar')
 }
