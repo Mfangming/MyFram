@@ -1,0 +1,10 @@
+/gen/
+/bin/
+/proguard/
+/build/
+/.idea/
+/.gradle/
+*.iml
+*.xml
+.project
+
