@@ -1,7 +1,6 @@
 package com.fm.file;
 
-import com.fangming.myframwork.R;
-
+import com.fm.myutill.R;
 
 public class FileInfo {
 	public String Name;

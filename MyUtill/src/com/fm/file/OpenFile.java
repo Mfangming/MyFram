@@ -1,12 +1,12 @@
 package com.fm.file;
 
-import java.io.File;
-import java.util.HashMap;
-import java.util.Map;
-
 import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
+
+import java.io.File;
+import java.util.HashMap;
+import java.util.Map;
 
 public class OpenFile {
 	Context context;

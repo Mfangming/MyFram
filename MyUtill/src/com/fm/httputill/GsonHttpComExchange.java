@@ -1,11 +1,11 @@
 package com.fm.httputill;
 
-import org.json.JSONException;
-import org.json.JSONObject;
-
 import android.content.Context;
 
 import com.google.gson.Gson;
+
+import org.json.JSONException;
+import org.json.JSONObject;
 
 public class GsonHttpComExchange {
 	private Context context;

@@ -1,5 +1,9 @@
 package com.fm.httputill;
 
+import android.os.Handler;
+import android.os.Message;
+import android.util.Log;
+
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
@@ -9,9 +13,6 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.Map;
 import java.util.Set;
-import android.os.Handler;
-import android.os.Message;
-import android.util.Log;
 
 public class HttpUtil {
 	public static final String adddress = "http://58.249.57.253:8011/smarthome/";// 开发
@@ -78,7 +79,7 @@ public class HttpUtil {
 
 	/**
 	 * @describe:连接服务器请求数据
-	 * @param path
+	 * @param method
 	 *            方法名称
 	 * @param param
 	 * @return 请求结果
@@ -140,14 +141,14 @@ public class HttpUtil {
 		public void handleMessage(Message msg) {
 			super.handleMessage(msg);
 			if (mListener != null) {
-				mListener.onResponse((String) msg.obj);
+				mListener.onResponse(msg);
 			}
 		}
 	};
 
 	public interface ResponseListener {
 
-		public void onResponse(String respons);
+		void onResponse(Message msg);
 
 	}
 

@@ -3,10 +3,6 @@
  */
 package com.fm.file;
 
-import java.util.List;
-
-import com.fangming.myframwork.R;
-
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -14,6 +10,10 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import com.fm.myutill.R;
+
+import java.util.List;
 
 
 /**

@@ -3,5 +3,5 @@
 
     <string name="app_name">MyUtill</string>
     <string name="hello_world">Hello world!</string>
-
+    <string name="file_cannotopen">文件无法打开</string>
 </resources>

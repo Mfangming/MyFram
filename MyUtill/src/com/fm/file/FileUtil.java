@@ -1,12 +1,5 @@
 package com.fm.file;
 
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.OutputStream;
-
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
@@ -14,6 +7,13 @@ import android.content.res.AssetManager;
 import android.graphics.Bitmap;
 import android.os.Environment;
 import android.util.Log;
+
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.OutputStream;
 
 public class FileUtil {
 	public static String SDPATH = Environment.getExternalStorageDirectory()
@@ -28,7 +28,7 @@ public class FileUtil {
 	 */
 	public static void toSelectFile(Context _this, String callbackId) {
 		Intent intent = new Intent();
-		intent.setClass(_this, FileBrowserActivity.class);
+//		intent.setClass(_this, FileBrowserActivity.class);
 		intent.putExtra("callbackId", callbackId);
 		((Activity) _this).startActivityForResult(intent, SEARCH_FILES);
 
@@ -111,7 +111,7 @@ public class FileUtil {
 	/**
 	 * 复制资源文件到目录
 	 *
-	 * @param pContext
+	 * @param context
 	 * @param pAssetFilePath
 	 *            资源文件目录
 	 * @param pDestDirPath
