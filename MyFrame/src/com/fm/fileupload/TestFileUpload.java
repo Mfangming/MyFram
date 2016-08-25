@@ -2,7 +2,6 @@ package com.fm.fileupload;
 
 import com.fangming.myframwork.R;
 import com.fm.file.FileUtil;
-
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
