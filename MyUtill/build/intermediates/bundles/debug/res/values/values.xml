@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue">#0000ff</color>
+    <color name="grey">#FF9f9e9e</color>
+    <color name="item_selected_grey">#F6F6F4</color>
+    <color name="me_activity_lineColor">#C1BDB3</color>
+    <color name="prev_next_month_day_color">#AAAAAA</color>
+    <color name="qjms">#ff9b42</color>
+    <color name="qjms_bj">#EEEEEE</color>
+    <color name="translate">#00000000</color>
+    <color name="translate_2">#60000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFFFE</color>
+    <string name="app_name">MyUtill</string>
+    <string name="file_cannotopen">文件无法打开</string>
+    <string name="hello_world">Hello world!</string>
+</resources>

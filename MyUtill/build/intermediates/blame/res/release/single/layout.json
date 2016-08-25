@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyUtill\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyUtill\\build\\intermediates\\exploded-aar\\MyFram\\DbProject\\unspecified\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyUtill\\build\\intermediates\\res\\merged\\release\\layout\\file_item.xml",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyUtill\\res\\layout\\file_item.xml"
+    }
+]
