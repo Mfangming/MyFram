@@ -16,6 +16,10 @@
         "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\activity_test_edittext.xml"
     },
     {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test_glide.xml",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\activity_test_glide.xml"
+    },
+    {
         "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_testkeybord.xml",
         "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\activity_testkeybord.xml"
     },

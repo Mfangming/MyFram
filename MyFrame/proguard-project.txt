@@ -18,3 +18,94 @@
 #-keepclassmembers class fqcn.of.javascript.interface.for.webview {
 #   public *;
 #}
+
+# 将.class信息中的类名重新定义为"Proguard"字符串
+-renamesourcefileattribute Proguard
+# 并保留源文件名为"Proguard"字符串，而非原始的类名 并保留行号
+-keepattributes SourceFile,LineNumberTable
+# 保留泛型类型
+-keepattributes Signature
+
+-optimizationpasses 5
+-dontusemixedcaseclassnames
+-dontskipnonpubliclibraryclasses
+-dontpreverify
+-verbose
+-optimizations !code/simplification/arithmetic,!field/*,!class/merging/*
+#-libraryjars libs\okio-1.8.0.jar
+#-libraryjars 'C:\Program Files (x86)\Java\jdk1.7.0_15\jre\lib\rt.jar'
+-assumenosideeffects class android.util.Log {
+    public static *** d(...);
+    public static *** v(...);
+}
+-dontwarn okio.**
+-keep public class * extends android.app.Activity
+-keep public class * extends android.app.Application
+-keep public class * extends android.app.Service
+-keep public class * extends android.content.BroadcastReceiver
+-keep public class * extends android.content.ContentProvider
+-keep public class * extends android.app.backup.BackupAgentHelper
+-keep public class * extends android.preference.Preference
+-keep public class * extends java.lang.Class<?>
+-keep public class * extends android.database.sqlite.SQLiteOpenHelper
+
+-dontwarn  com.google.gson.**
+-dontwarn  com.google.gson.annotations.**
+-dontwarn  com.google.gson.reflect.**
+-dontwarn  com.google.gson.stream.**
+-dontwarn  android.support.v4.**
+
+-keep class android.support.v4.** { *; }
+-keep public class * extends android.support.v4.**
+-keep public class * extends android.app.Fragment
+-keep class com.lidroid.** { *; }
+
+-keep  class  com.google.gson.annotations.**{*;}
+-keep  class  com.google.gson.reflect.**{*;}
+-keep  class  com.google.gson.stream.**{*;}
+
+-keep  class  android.support.v4.os.**{*;}
+-keep  class  android.support.v4.app.**{*;}
+-keep  class  android.support.v4.view.**{*;}
+
+# Explicitly preserve all serialization members. The Serializable interface
+# is only a marker interface, so it wouldn't save them.
+-keepclassmembers class * implements java.io.Serializable {
+    static final long serialVersionUID;
+    private static final java.io.ObjectStreamField[] serialPersistentFields;
+    private void writeObject(java.io.ObjectOutputStream);
+    private void readObject(java.io.ObjectInputStream);
+    java.lang.Object writeReplace();
+    java.lang.Object readResolve();
+}
+
+-keepattributes *Annotation*
+
+-keepclasseswithmembernames class * {
+    native <methods>;
+}
+
+-keepclasseswithmembers class * {
+    public <init>(android.content.Context, android.util.AttributeSet);
+}
+
+-keepclasseswithmembers class * {
+    public <init>(android.content.Context, android.util.AttributeSet, int);
+}
+
+-keepclassmembers class * extends android.app.Activity {
+   public void *(android.view.View);
+}
+
+-keepclassmembers class * extends android.support.v4.app.Fragment {
+   public void *(android.view.View);
+}
+
+
+
+-keep public class * implements com.bumptech.glide.module.GlideModule
+-keep public enum com.bumptech.glide.load.resource.bitmap.ImageHeaderParser$** {
+  **[] $VALUES;
+  public *;
+}
+-keepresourcexmlelements manifest/application/meta-data@value=GlideModule
