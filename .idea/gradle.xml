@@ -5,14 +5,13 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="E:\android-studio\androidstudio\gradle\gradle-2.10" />
+        <option name="gradleHome" value="E:\android-studio\androidstudio\gradle\gradle-2.14.1" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/DbProject" />
             <option value="$PROJECT_DIR$/MyFrame" />
             <option value="$PROJECT_DIR$/MyUtill" />
-            <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/news" />
           </set>
         </option>
@@ -22,7 +21,6 @@
             <option value="$PROJECT_DIR$/DbProject" />
             <option value="$PROJECT_DIR$/MyFrame" />
             <option value="$PROJECT_DIR$/MyUtill" />
-            <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/news" />
           </set>
         </option>
