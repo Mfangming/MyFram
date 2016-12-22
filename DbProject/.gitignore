@@ -14,6 +14,7 @@ gen/
 out/
 build/
 
+
 # Local configuration file (sdk path, etc)
 local.properties
 
@@ -39,3 +40,10 @@ Thumbs.db
 
 #NDK
 obj/
+/bin/
+/build/
+/gen/
+/build/generated/
+/build/intermediates/
+/build/outputs/
+/.settings/

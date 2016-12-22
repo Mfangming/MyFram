@@ -17,8 +17,7 @@ public final class R {
         public static int activity_main=0x7f030000;
     }
     public static final class string {
-        public static int app_name=0x7f040000;
-        public static int hello_world=0x7f040001;
+        public static int hello_world=0x7f040000;
     }
     public static final class style {
         public static int AppBaseTheme=0x7f050000;

@@ -35,7 +35,6 @@ public class SqliteHelper {
 	/**
 	 * 构造函数
 	 *
-	 * @param sqliteOpenHelper
 	 */
 	public SqliteHelper() {
 	}
@@ -43,7 +42,6 @@ public class SqliteHelper {
 	/**
 	 * 构造函数
 	 *
-	 * @param sqliteOpenHelper
 	 */
 	public SqliteHelper(Context context, String dataBaseName,
 						int dataBaseVersion, List<Class<?>> tableClassNameList) {
