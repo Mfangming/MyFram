@@ -55,12 +55,6 @@ public class ConnService extends Service {
 	}
 
 	@Override
-	public void onStart(Intent intent, int startId) {
-		Log.e(TAG, "---->" + "onStart");
-		super.onStart(intent, startId);
-	}
-
-	@Override
 	public int onStartCommand(Intent intent, int flags, int startId) {
 		Log.e(TAG, "---->" + "onStartCommand");
 		return super.onStartCommand(intent, flags, startId);

@@ -7,14 +7,39 @@
 package com.fm.myutill;
 
 public final class R {
+	public static final class color {
+		public static final int black = 0x7f060000;
+		public static final int blue = 0x7f060001;
+		public static final int grey = 0x7f060002;
+		public static final int item_selected_grey = 0x7f060003;
+		public static final int me_activity_lineColor = 0x7f060004;
+		public static final int prev_next_month_day_color = 0x7f060005;
+		public static final int qjms = 0x7f060006;
+		public static final int qjms_bj = 0x7f060007;
+		public static final int translate = 0x7f060008;
+		public static final int translate_2 = 0x7f060009;
+		public static final int transparent = 0x7f06000a;
+		public static final int white = 0x7f06000b;
+	}
 	public static final class drawable {
+		public static final int doc = 0x7f02000a;
+		public static final int folder = 0x7f02000d;
 		public static final int ic_launcher = 0x7f02000e;
+		public static final int me = 0x7f020013;
+	}
+	public static final class id {
+		public static final int file_icon = 0x7f09002e;
+		public static final int file_name = 0x7f09002f;
 	}
 	public static final class layout {
-		public static final int activity_main = 0x7f030003;
+		public static final int activity_main = 0x7f030004;
+		public static final int file_item = 0x7f03001a;
 	}
 	public static final class string {
-		public static final int app_name = 0x7f070000;
-		public static final int hello_world = 0x7f070003;
+		public static final int file_cannotopen = 0x7f070002;
+		public static final int hello_world = 0x7f070004;
+	}
+	public static final class style {
+		public static final int AppBaseTheme = 0x7f080000;
 	}
 }

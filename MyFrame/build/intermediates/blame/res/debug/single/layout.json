@@ -12,6 +12,10 @@
         "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\activity_webview.xml"
     },
     {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_second.xml",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\activity_second.xml"
+    },
+    {
         "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test_edittext.xml",
         "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\activity_test_edittext.xml"
     },
@@ -66,6 +70,10 @@
     {
         "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_testpopup.xml",
         "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\activity_testpopup.xml"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_a.xml",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\activity_a.xml"
     },
     {
         "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\pop_fileupload_select.xml",
@@ -130,6 +138,10 @@
     {
         "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\item_projectadapter.xml",
         "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\item_projectadapter.xml"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_testimmersion.xml",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\activity_testimmersion.xml"
     },
     {
         "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_testffmpeg.xml",

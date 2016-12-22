@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "outputFile": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -243,9 +243,9 @@
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 58,
+                        "startOffset": 59,
                         "endColumn": 43,
-                        "endOffset": 97
+                        "endOffset": 98
                     }
                 }
             },
@@ -261,9 +261,9 @@
                     "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 5,
-                        "startColumn": 5,
+                        "startColumn": 4,
                         "startOffset": 158,
-                        "endColumn": 43,
+                        "endColumn": 42,
                         "endOffset": 196
                     }
                 }
@@ -277,13 +277,13 @@
                     "endOffset": 744
                 },
                 "from": {
-                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\strings.xml",
+                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\exploded-aar\\MyFram\\MyUtill\\unspecified\\res\\values\\values.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 201,
+                        "startOffset": 611,
                         "endColumn": 50,
-                        "endOffset": 247
+                        "endOffset": 657
                     }
                 }
             },
@@ -292,17 +292,17 @@
                     "startLine": 17,
                     "startColumn": 4,
                     "startOffset": 749,
-                    "endColumn": 52,
-                    "endOffset": 797
+                    "endColumn": 57,
+                    "endOffset": 802
                 },
                 "from": {
                     "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 103,
-                        "endColumn": 52,
-                        "endOffset": 151
+                        "startOffset": 202,
+                        "endColumn": 57,
+                        "endOffset": 255
                     }
                 }
             },
@@ -310,9 +310,28 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 802,
+                    "startOffset": 807,
+                    "endColumn": 52,
+                    "endOffset": 855
+                },
+                "from": {
+                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 52,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 860,
                     "endColumn": 61,
-                    "endOffset": 859
+                    "endOffset": 917
                 },
                 "from": {
                     "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\styles.xml",
@@ -327,12 +346,12 @@
             },
             {
                 "to": {
-                    "startLine": 19,
+                    "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 864,
-                    "endLine": 22,
+                    "startOffset": 922,
+                    "endLine": 23,
                     "endColumn": 12,
-                    "endOffset": 1008
+                    "endOffset": 1066
                 },
                 "from": {
                     "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\styles_comm.xml",
@@ -348,12 +367,12 @@
             },
             {
                 "to": {
-                    "startLine": 23,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 1013,
-                    "endLine": 27,
+                    "startOffset": 1071,
+                    "endLine": 28,
                     "endColumn": 12,
-                    "endOffset": 1227
+                    "endOffset": 1285
                 },
                 "from": {
                     "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\styles_comm.xml",

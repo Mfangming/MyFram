@@ -6,10 +6,16 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
+import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.TextView;
+
+import java.io.ByteArrayOutputStream;
+import java.io.IOException;
+import java.io.OutputStream;
+import java.net.Socket;
 
 public class TestJsoup extends Activity {
 	private JsoupUtil jUtil;
@@ -47,7 +53,15 @@ public class TestJsoup extends Activity {
 		@Override
 		public void run() {
 			super.run();
-			jUtil.getdDocument(urlString);
+//			jUtil.getdDocument(urlString);
+
+			Bundle bundle=new Bundle();
+			byte[] txt=new byte[]{123};
+			bundle.putByteArray("msd",txt);
+			Message msg= handler.obtainMessage();
+			msg.setData(bundle);
+			msg.what=1;
+			handler.sendMessage(msg);
 		}
 
 	}
@@ -58,6 +72,9 @@ public class TestJsoup extends Activity {
 			switch (msg.what) {
 				case 1:
 					// tv_test.setText((String) msg.obj);
+					Bundle bundle=msg.getData();
+					byte[] a= bundle.getByteArray("msd");
+					Log.e("test",String.valueOf(a));
 
 					break;
 

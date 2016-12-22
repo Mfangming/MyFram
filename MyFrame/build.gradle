@@ -2,15 +2,25 @@ apply plugin: 'com.android.application'
 
 dependencies {
     compile fileTree(include: '*.jar', dir: 'libs')
-    compile files('libs/volley.jar')
-    compile files('libs/jsoup-1.6.1.jar')
     compile files('libs/jpush-android-2.0.5.jar')
     compile project(':DbProject')
     compile project(':MyUtill')
+    compile 'com.android.support:support-annotations:23.1.1'
+    compile project(':third_library')
 }
 
+//allprojects {
+//    gradle.projectsEvaluated {
+//        tasks.withType(JavaCompile) {
+////            options.compilerArgs << "-Xlint:unchecked" << "-Xlint:deprecation"
+//        }
+//    }
+//}
+
+
+
 android {
-    compileSdkVersion 23
+    compileSdkVersion rootProject.ext.compileSdkVersion
     buildToolsVersion '23.0.3'
 
     sourceSets {
@@ -35,6 +45,5 @@ android {
         // by a similar customization.
         debug.setRoot('build-types/debug')
         release.setRoot('build-types/release')
-        useLibrary 'org.apache.http.legacy'
     }
 }

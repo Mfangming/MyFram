@@ -6,6 +6,8 @@ import java.util.List;
 import com.fangming.myframwork.R;
 import com.fangming.testffmpeg.TestffmpegActivity3;
 import com.fm.entity.ProjectInfo;
+import com.fm.test.ActivityA;
+import com.fm.test.TestImmersionActivity;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -37,12 +39,13 @@ public class MainListActivity extends Activity {
 	}
 
 	/**
-	 * @describe:初始化数�?
+	 * @describe:初始化数
 	 */
 	private void initDate() {
-		mdate.add(new ProjectInfo("自定义下拉刷新组�?", new Intent(_this,TestffmpegActivity3.class)));
 		mdate.add(new ProjectInfo("FFmpeg移植android测试", new Intent(_this,TestffmpegActivity3.class)));
-		mdate.add(new ProjectInfo("�?�?单的基于FFmpeg的移动端例子：Android 视频解码�?", new Intent(_this,TestffmpegActivity3.class)));
+		mdate.add(new ProjectInfo("测试沉浸式title栏", new Intent(_this,TestImmersionActivity.class)));
+		mdate.add(new ProjectInfo("测试ActivityA跳转到ActivityB", new Intent(_this,ActivityA.class)));
+		mdate.add(new ProjectInfo("测试部分手机文件夹的创建", new Intent(_this,ActivityA.class)));
 		madapter.notifyDataSetChanged();
 	}
 
@@ -59,7 +62,6 @@ public class MainListActivity extends Activity {
 			public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
 				ProjectInfo p=(ProjectInfo) parent.getItemAtPosition(position);
 				startActivity(p.getMintent());
-
 			}
 		});
 	}

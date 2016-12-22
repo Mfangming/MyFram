@@ -8,6 +8,7 @@ import android.app.ProgressDialog;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.util.Log;
+import android.widget.Button;
 import android.widget.Toast;
 
 public class Mydialog {
@@ -181,7 +182,7 @@ public class Mydialog {
 		mProgress.setIcon(R.drawable.ic_launcher);
 		mProgress.setTitle("带进度条的Ｄialog");
 		mProgress.setProgressStyle(ProgressDialog.STYLE_HORIZONTAL);
-		mProgress.setButton("确定", new DialogInterface.OnClickListener() {
+		mProgress.setButton(DialogInterface.BUTTON_NEGATIVE,"确定", new DialogInterface.OnClickListener() {
 
 			@Override
 			public void onClick(DialogInterface dialog, int which) {

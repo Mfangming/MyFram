@@ -15,6 +15,7 @@
     <string name="app_name">MyFram</string>
     <string name="cancel_back">返回</string>
     <string name="file_cannotopen">文件无法打开</string>
+    <string name="go_nextactivity">进入下一个activity</string>
     <string name="hello_world">Hello world!</string>
     <style name="AppBaseTheme" parent="android:Theme.Light"/>
     <style name="backbtn">
