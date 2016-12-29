@@ -11,7 +11,14 @@
                     "endOffset": 92
                 },
                 "from": {
-                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\colors.xml"
+                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 207,
+                        "endColumn": 41,
+                        "endOffset": 244
+                    }
                 }
             },
             {
@@ -23,7 +30,14 @@
                     "endOffset": 131
                 },
                 "from": {
-                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\colors.xml"
+                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 5,
+                        "startOffset": 681,
+                        "endColumn": 39,
+                        "endOffset": 715
+                    }
                 }
             },
             {
@@ -35,7 +49,14 @@
                     "endOffset": 172
                 },
                 "from": {
-                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\colors.xml"
+                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 555,
+                        "endColumn": 40,
+                        "endOffset": 591
+                    }
                 }
             },
             {
@@ -47,7 +68,14 @@
                     "endOffset": 225
                 },
                 "from": {
-                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\colors.xml"
+                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 427,
+                        "endColumn": 52,
+                        "endOffset": 475
+                    }
                 }
             },
             {
@@ -59,7 +87,14 @@
                     "endOffset": 281
                 },
                 "from": {
-                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\colors.xml"
+                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 481,
+                        "endColumn": 55,
+                        "endOffset": 532
+                    }
                 }
             },
             {
@@ -71,7 +106,14 @@
                     "endOffset": 341
                 },
                 "from": {
-                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\colors.xml"
+                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 293,
+                        "endColumn": 59,
+                        "endOffset": 348
+                    }
                 }
             },
             {
@@ -83,7 +125,14 @@
                     "endOffset": 380
                 },
                 "from": {
-                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\colors.xml"
+                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 597,
+                        "endColumn": 38,
+                        "endOffset": 631
+                    }
                 }
             },
             {
@@ -95,7 +144,14 @@
                     "endOffset": 422
                 },
                 "from": {
-                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\colors.xml"
+                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 637,
+                        "endColumn": 41,
+                        "endOffset": 674
+                    }
                 }
             },
             {
@@ -107,7 +163,14 @@
                     "endOffset": 468
                 },
                 "from": {
-                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\colors.xml"
+                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 76,
+                        "endColumn": 45,
+                        "endOffset": 117
+                    }
                 }
             },
             {
@@ -119,7 +182,14 @@
                     "endOffset": 516
                 },
                 "from": {
-                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\colors.xml"
+                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 141,
+                        "endColumn": 47,
+                        "endOffset": 184
+                    }
                 }
             },
             {
@@ -131,7 +201,14 @@
                     "endOffset": 564
                 },
                 "from": {
-                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\colors.xml"
+                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 354,
+                        "endColumn": 47,
+                        "endOffset": 397
+                    }
                 }
             },
             {
@@ -143,7 +220,14 @@
                     "endOffset": 606
                 },
                 "from": {
-                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\colors.xml"
+                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 250,
+                        "endColumn": 41,
+                        "endOffset": 287
+                    }
                 }
             },
             {
@@ -155,7 +239,14 @@
                     "endOffset": 650
                 },
                 "from": {
-                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\strings.xml"
+                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 43,
+                        "endOffset": 98
+                    }
                 }
             },
             {
@@ -167,7 +258,14 @@
                     "endOffset": 693
                 },
                 "from": {
-                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\strings.xml"
+                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 42,
+                        "endOffset": 196
+                    }
                 }
             },
             {
@@ -179,7 +277,14 @@
                     "endOffset": 744
                 },
                 "from": {
-                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\exploded-aar\\MyFram\\MyUtill\\unspecified\\res\\values\\values.xml"
+                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\exploded-aar\\MyFram\\MyUtill\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 611,
+                        "endColumn": 50,
+                        "endOffset": 657
+                    }
                 }
             },
             {
@@ -191,7 +296,14 @@
                     "endOffset": 802
                 },
                 "from": {
-                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\strings.xml"
+                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 202,
+                        "endColumn": 57,
+                        "endOffset": 255
+                    }
                 }
             },
             {
@@ -203,7 +315,14 @@
                     "endOffset": 855
                 },
                 "from": {
-                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\strings.xml"
+                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 52,
+                        "endOffset": 152
+                    }
                 }
             },
             {
@@ -234,7 +353,14 @@
                     "endOffset": 968
                 },
                 "from": {
-                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\styles.xml"
+                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 68,
+                        "endOffset": 83
+                    }
                 }
             },
             {
@@ -247,7 +373,15 @@
                     "endOffset": 1117
                 },
                 "from": {
-                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\styles_comm.xml"
+                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\styles_comm.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 206
+                    }
                 }
             },
             {
@@ -260,7 +394,15 @@
                     "endOffset": 1336
                 },
                 "from": {
-                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\styles_comm.xml"
+                    "file": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\values\\styles_comm.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 238,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 456
+                    }
                 }
             }
         ]

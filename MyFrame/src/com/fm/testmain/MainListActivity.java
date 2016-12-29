@@ -49,6 +49,7 @@ public class MainListActivity extends Activity {
 		mdate.add(new ProjectInfo("测试ActivityA跳转到ActivityB", new Intent(_this,ActivityA.class)));
 		mdate.add(new ProjectInfo("测试部分手机文件夹的创建", new Intent(_this,TestFileCreateActivity.class)));
 		mdate.add(new ProjectInfo("测试Service", new Intent(_this,TestServiceActivity.class)));
+		mdate.add(new ProjectInfo("测试AsyncTask", new Intent(_this,TestServiceActivity.class)));
 		madapter.notifyDataSetChanged();
 	}
 

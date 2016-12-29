@@ -1,11 +1,11 @@
 [
     {
-        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_testservice.xml",
-        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\activity_testservice.xml"
-    },
-    {
         "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_testopengl.xml",
         "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\activity_testopengl.xml"
+    },
+    {
+        "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_testservice.xml",
+        "source": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\res\\layout\\activity_testservice.xml"
     },
     {
         "merged": "E:\\android-studio\\workspace\\MyFram\\MyFrame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fileupload.xml",
