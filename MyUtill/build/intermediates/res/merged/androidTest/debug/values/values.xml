@@ -12,7 +12,6 @@
     <color name="translate_2">#60000000</color>
     <color name="transparent">#00000000</color>
     <color name="white">#FFFFFFFE</color>
-    <string name="app_name">MyUtill</string>
     <string name="file_cannotopen">文件无法打开</string>
     <string name="hello_world">Hello world!</string>
     <style name="AppBaseTheme" parent="android:Theme.Light">

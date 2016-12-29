@@ -16,7 +16,7 @@ import java.io.InputStream;
 import java.io.OutputStream;
 
 public class FileUtil {
-	public static String SDPATH = Environment.getExternalStorageDirectory()
+	public static String SDPATH = Environment.getExternalStorageDirectory().getPath()
 			+ "/Photo_LJ/";
 	public static int SEARCH_FILES = 0;
 
@@ -58,7 +58,6 @@ public class FileUtil {
 		File dir = new File(SDPATH + dirName);
 		if (Environment.getExternalStorageState().equals(
 				Environment.MEDIA_MOUNTED)) {
-
 			System.out.println("createSDDir:" + dir.getAbsolutePath());
 			System.out.println("createSDDir:" + dir.mkdir());
 		}

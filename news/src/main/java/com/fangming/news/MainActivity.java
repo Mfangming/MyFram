@@ -1,5 +1,6 @@
 package com.fangming.news;
 
+import android.os.Looper;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentActivity;
 import android.support.v4.view.ViewPager;
@@ -32,6 +33,9 @@ public class MainActivity extends FragmentActivity {
         myApp = MyApp.getInstance();
         initView();
         initTitleBar("开心时刻");
+        Looper.prepare();
+        Looper.myLooper();
+        Looper.loop();
     }
 
     private void toast(String msg) {

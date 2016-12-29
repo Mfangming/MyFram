@@ -20,9 +20,8 @@ android {
 }
 
 dependencies {
-    compile files('libs/jsoup-1.6.1.jar')
     compile files('libs/volley.jar')
     compile project(':DbProject')
     testCompile 'junit:junit:4.12'
-    compile files('libs/HMSDK.jar')
+    compile project(':third_library')
 }

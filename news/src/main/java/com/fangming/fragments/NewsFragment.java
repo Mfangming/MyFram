@@ -57,7 +57,7 @@ public class NewsFragment extends BaseFragment {
         btn_update.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                myApp.jsoupUtil.getNewsList("http://sina.cn/", new JsoupUtil.ResponseListener() {
+                myApp.jsoupUtil.getNewsList("https://sina.cn/", new JsoupUtil.ResponseListener() {
                     @Override
                     public void onResponse(String respons) {
                         List<NewsEntity> mlist=new ArrayList<NewsEntity>();

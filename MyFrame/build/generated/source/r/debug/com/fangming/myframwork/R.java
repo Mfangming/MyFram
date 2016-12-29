@@ -158,25 +158,27 @@ public final class R {
         public static final int activity_testcamora2=0x7f03000f;
         public static final int activity_testffmpeg=0x7f030010;
         public static final int activity_testffmpeg3=0x7f030011;
-        public static final int activity_testimmersion=0x7f030012;
-        public static final int activity_testkeybord=0x7f030013;
-        public static final int activity_testopengl=0x7f030014;
-        public static final int activity_testpopup=0x7f030015;
-        public static final int activity_testvolly=0x7f030016;
-        public static final int activity_webview=0x7f030017;
-        public static final int dialog_one=0x7f030018;
-        public static final int file_browser_activity=0x7f030019;
-        public static final int file_item=0x7f03001a;
-        public static final int griad_item=0x7f03001b;
-        public static final int item_fileupload=0x7f03001c;
-        public static final int item_gradview_tua=0x7f03001d;
-        public static final int item_projectadapter=0x7f03001e;
-        public static final int jpush_webview_layout=0x7f03001f;
-        public static final int pop_bottom=0x7f030020;
-        public static final int pop_fileupload_select=0x7f030021;
-        public static final int test_activity_http=0x7f030022;
-        public static final int test_dialog_activity=0x7f030023;
-        public static final int testffmpeg_main=0x7f030024;
+        public static final int activity_testfilecreate=0x7f030012;
+        public static final int activity_testimmersion=0x7f030013;
+        public static final int activity_testkeybord=0x7f030014;
+        public static final int activity_testopengl=0x7f030015;
+        public static final int activity_testpopup=0x7f030016;
+        public static final int activity_testservice=0x7f030017;
+        public static final int activity_testvolly=0x7f030018;
+        public static final int activity_webview=0x7f030019;
+        public static final int dialog_one=0x7f03001a;
+        public static final int file_browser_activity=0x7f03001b;
+        public static final int file_item=0x7f03001c;
+        public static final int griad_item=0x7f03001d;
+        public static final int item_fileupload=0x7f03001e;
+        public static final int item_gradview_tua=0x7f03001f;
+        public static final int item_projectadapter=0x7f030020;
+        public static final int jpush_webview_layout=0x7f030021;
+        public static final int pop_bottom=0x7f030022;
+        public static final int pop_fileupload_select=0x7f030023;
+        public static final int test_activity_http=0x7f030024;
+        public static final int test_dialog_activity=0x7f030025;
+        public static final int testffmpeg_main=0x7f030026;
     }
     public static final class string {
         public static final int app_name=0x7f070000;
@@ -184,6 +186,7 @@ public final class R {
         public static final int file_cannotopen=0x7f070002;
         public static final int go_nextactivity=0x7f070003;
         public static final int hello_world=0x7f070004;
+        public static final int test_service=0x7f070005;
     }
     public static final class style {
         public static final int AppBaseTheme=0x7f080000;

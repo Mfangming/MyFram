@@ -5,6 +5,7 @@
     <string name="hello_world">Hello world!</string>
     <string name="cancel_back">返回</string>
     <string name="go_nextactivity">进入下一个activity</string>
+    <string name="test_service">测试Service</string>
 
 
 </resources>

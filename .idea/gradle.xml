@@ -5,7 +5,7 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="E:\android-studio\androidstudio\gradle\gradle-2.14.1" />
+        <option name="gradleHome" value="E:\android-studio\studio\gradle\gradle-2.14.1" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -13,17 +13,10 @@
             <option value="$PROJECT_DIR$/MyFrame" />
             <option value="$PROJECT_DIR$/MyUtill" />
             <option value="$PROJECT_DIR$/news" />
+            <option value="$PROJECT_DIR$/third_library" />
           </set>
         </option>
-        <option name="myModules">
-          <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/DbProject" />
-            <option value="$PROJECT_DIR$/MyFrame" />
-            <option value="$PROJECT_DIR$/MyUtill" />
-            <option value="$PROJECT_DIR$/news" />
-          </set>
-        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>
   </component>

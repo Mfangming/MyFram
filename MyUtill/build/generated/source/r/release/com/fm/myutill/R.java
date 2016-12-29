@@ -28,6 +28,7 @@ public final class R {
         public static int doc=0x7f020000;
         public static int folder=0x7f020001;
         public static int ic_launcher=0x7f020002;
+        public static int me=0x7f020003;
     }
     public static final class id {
         public static int file_icon=0x7f070000;
@@ -38,9 +39,8 @@ public final class R {
         public static int file_item=0x7f030001;
     }
     public static final class string {
-        public static int app_name=0x7f050000;
-        public static int file_cannotopen=0x7f050001;
-        public static int hello_world=0x7f050002;
+        public static int file_cannotopen=0x7f050000;
+        public static int hello_world=0x7f050001;
     }
     public static final class style {
         public static int AppBaseTheme=0x7f060000;

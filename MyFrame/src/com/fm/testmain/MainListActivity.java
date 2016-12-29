@@ -7,7 +7,9 @@ import com.fangming.myframwork.R;
 import com.fangming.testffmpeg.TestffmpegActivity3;
 import com.fm.entity.ProjectInfo;
 import com.fm.test.ActivityA;
+import com.fm.test.TestFileCreateActivity;
 import com.fm.test.TestImmersionActivity;
+import com.fm.test.TestServiceActivity;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -45,7 +47,8 @@ public class MainListActivity extends Activity {
 		mdate.add(new ProjectInfo("FFmpeg移植android测试", new Intent(_this,TestffmpegActivity3.class)));
 		mdate.add(new ProjectInfo("测试沉浸式title栏", new Intent(_this,TestImmersionActivity.class)));
 		mdate.add(new ProjectInfo("测试ActivityA跳转到ActivityB", new Intent(_this,ActivityA.class)));
-		mdate.add(new ProjectInfo("测试部分手机文件夹的创建", new Intent(_this,ActivityA.class)));
+		mdate.add(new ProjectInfo("测试部分手机文件夹的创建", new Intent(_this,TestFileCreateActivity.class)));
+		mdate.add(new ProjectInfo("测试Service", new Intent(_this,TestServiceActivity.class)));
 		madapter.notifyDataSetChanged();
 	}
 

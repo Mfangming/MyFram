@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\android-studio\\workspace\\MyFram\\MyUtill\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "outputFile": "E:\\android-studio\\workspace\\MyFram\\MyUtill\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -235,17 +235,17 @@
                     "startLine": 14,
                     "startColumn": 4,
                     "startOffset": 611,
-                    "endColumn": 44,
-                    "endOffset": 651
+                    "endColumn": 50,
+                    "endOffset": 657
                 },
                 "from": {
                     "file": "E:\\android-studio\\workspace\\MyFram\\MyUtill\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 3,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 59,
-                        "endColumn": 44,
-                        "endOffset": 99
+                        "startOffset": 113,
+                        "endColumn": 50,
+                        "endOffset": 159
                     }
                 }
             },
@@ -253,18 +253,18 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 656,
-                    "endColumn": 50,
-                    "endOffset": 702
+                    "startOffset": 662,
+                    "endColumn": 52,
+                    "endOffset": 710
                 },
                 "from": {
                     "file": "E:\\android-studio\\workspace\\MyFram\\MyUtill\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 159,
-                        "endColumn": 50,
-                        "endOffset": 205
+                        "startOffset": 59,
+                        "endColumn": 52,
+                        "endOffset": 107
                     }
                 }
             },
@@ -272,39 +272,20 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 707,
-                    "endColumn": 52,
-                    "endOffset": 755
-                },
-                "from": {
-                    "file": "E:\\android-studio\\workspace\\MyFram\\MyUtill\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 105,
-                        "endColumn": 52,
-                        "endOffset": 153
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 760,
-                    "endLine": 18,
+                    "startOffset": 715,
+                    "endLine": 17,
                     "endColumn": 12,
-                    "endOffset": 829
+                    "endOffset": 784
                 },
                 "from": {
                     "file": "E:\\android-studio\\workspace\\MyFram\\MyUtill\\build\\intermediates\\exploded-aar\\MyFram\\DbProject\\unspecified\\res\\values\\values.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 155,
-                        "endLine": 5,
+                        "startOffset": 108,
+                        "endLine": 4,
                         "endColumn": 12,
-                        "endOffset": 224
+                        "endOffset": 177
                     }
                 }
             }
