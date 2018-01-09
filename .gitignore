@@ -1,57 +1,7 @@
-#built application files
-*.apk
-*.ap_
 
-# files for the dex VM
-*.dex
-
-# Java class files
-*.class
-
-# generated files
-bin/
-gen/
-out/
-build/
-
-# Local configuration file (sdk path, etc)
-local.properties
-
-# Windows thumbnail db
-Thumbs.db
-
-# OSX files
-.DS_Store
-
-# Eclipse project files
-.classpath
-.project
-
-# Android Studio
-*.iml
-.idea
-
-# Local IDEA workspace
-.idea/workspace.xml
-
-# Gradle cache
-.gradle
-
-#NDK
-obj/
-libs/arm64-v8a/
-libs/armeabi/
-res/anim/.svn/prop-base/
-res/anim/.svn/props/
-res/anim/.svn/tmp/
-res/drawable-ldpi/
-res/layout/activity_a.xml
-res/layout/activity_second.xml
-res/layout/activity_test_glide.xml
-res/layout/activity_testimmersion.xml
-src/com/fm/test/ActivityA.java
-src/com/fm/test/ActivityB.java
-src/com/fm/test/SecondActivity.java
-src/com/fm/test/TestGlideActivity.java
-src/com/fm/test/TestImmersionActivity.java
 /.gradle/
+/.idea/
+/build/
+/local.properties
+/*.iml
+/gradle/
