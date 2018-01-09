@@ -39,3 +39,9 @@ Thumbs.db
 
 #NDK
 obj/
+/gen/
+/bin/
+/proguard/
+/build/
+*.iml
+*.apk
