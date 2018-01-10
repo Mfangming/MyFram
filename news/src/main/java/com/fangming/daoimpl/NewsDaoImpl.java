@@ -1,7 +1,5 @@
 package com.fangming.daoimpl;
 
-import android.util.Log;
-
 import com.fangming.dao.NewsDao;
 import com.fangming.entity.NewsEntity;
 
