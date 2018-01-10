@@ -1,4 +1,4 @@
-package main.java.com.fm.test;
+package com.fm.test;
 
 import android.animation.Animator;
 import android.app.Activity;
